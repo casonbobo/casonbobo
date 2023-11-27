@@ -25,4 +25,4 @@
 ><h2>And more. <br> I am always trying to learn new things or get somewhere further than I was before, so more will always be added.</h2>
 
 
-<h2>If you would like to contact me reach out to me on LinkedIn <a href="https://www.linkedin.com/in/cason-bobo/">Here</a>!! </h2>
+<h2>If you would like to contact me reach out on LinkedIn <a href="https://www.linkedin.com/in/cason-bobo/">Here</a>!! </h2>
