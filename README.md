@@ -1,6 +1,6 @@
 <h1> Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h1>
 <h2>My name is Cason Bobo, I am learning Web Development at Holberton Tulsa.</h2>
-<h3>This profile is a collection of repositories, projects, and files that I made while learning at Holberton. I am always in a state of learning and trying so more will be added, even after school.</h3>
+<h3>This profile is a collection of repositories, projects, and files that I made while learning at Atlas Tulsa (previously Holberton Tulsa). I am always in a state of learning and trying so more will be added, even after school.</h3>
 <br>
 
 
